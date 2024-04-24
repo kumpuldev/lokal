@@ -12,8 +12,8 @@ dependencies:
     specifier: ^4.6.3
     version: 4.6.3(@types/node@20.12.7)(typescript@5.4.5)
   hono:
-    specifier: ^4.2.6
-    version: 4.2.6
+    specifier: ^4.2.7
+    version: 4.2.7
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -2001,8 +2001,8 @@ packages:
       property-information: 6.5.0
       space-separated-tokens: 2.0.2
 
-  /hono@4.2.6:
-    resolution: {integrity: sha512-AtbHZJYWsm+uFHLz0C6xltX7hjOV44a55gSEGBfoQOJ00KSxEUOoiIkmd+NXfapNX0j2GCKhqMmYeegBdHRwcQ==}
+  /hono@4.2.7:
+    resolution: {integrity: sha512-k1xHi86tJnRIVvqhFMBDGFKJ8r5O+bEsT4P59ZK59r0F300Xd910/r237inVfuT/VmE86RQQffX4OYNda6dLXw==}
     engines: {node: '>=16.0.0'}
     dev: false
 
